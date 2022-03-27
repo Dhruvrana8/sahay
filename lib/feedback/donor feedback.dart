@@ -88,15 +88,9 @@ class donorfeedback extends StatelessWidget {
                     ),
                   ),
                   onPressed: () {},
-                  style: ElevatedButton.styleFrom(
-                      primary: const Color(0xffFBBC04),
-                      padding: const EdgeInsets.symmetric(
-                          horizontal: 20, vertical: 15),
-                      textStyle: const TextStyle(
-                          fontSize: 20,
-                          fontWeight: FontWeight.bold)),
-                ),
+
               ),
+              )
             ],
           ),
         ),
