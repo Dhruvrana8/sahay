@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="37" viewBox="0 0 36 37">
+  <g id="Group_144" data-name="Group 144" transform="translate(0.181 -0.01)">
+    <g id="Ellipse_8" data-name="Ellipse 8" transform="translate(5.819 0.01)" fill="none" stroke="#999" stroke-width="1.7">
+      <ellipse cx="11" cy="10.5" rx="11" ry="10.5" stroke="none"/>
+      <ellipse cx="11" cy="10.5" rx="10.15" ry="9.65" fill="none"/>
+    </g>
+    <g id="Group_131" data-name="Group 131" transform="translate(13.046 6.435)">
+      <line id="Line_8" data-name="Line 8" y2="8.15" transform="translate(3.977)" fill="none" stroke="#999" stroke-linecap="round" stroke-width="1.7"/>
+      <line id="Line_9" data-name="Line 9" y2="7.954" transform="translate(7.954 4.075) rotate(90)" fill="none" stroke="#999" stroke-linecap="round" stroke-width="1.7"/>
+    </g>
+    <text id="Donate" transform="translate(-0.181 34.01)" fill="#999" font-size="11" font-family="GoogleSansDisplay-Regular, Google Sans Display"><tspan x="0" y="0">Donate</tspan></text>
+  </g>
+</svg>

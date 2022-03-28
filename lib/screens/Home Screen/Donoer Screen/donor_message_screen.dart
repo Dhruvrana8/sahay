@@ -17,9 +17,9 @@ class DonorMessageScreen extends StatelessWidget {
         ),
         title: const Text(
           "Messages",
-          style: TextStyle(
-            fontSize: 30,
-          ),
+          //   style: TextStyle(
+          //     fontSize: 30,
+          //   ),
         ),
       ),
       body: Column(

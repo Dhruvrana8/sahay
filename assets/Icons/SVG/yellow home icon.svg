@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="37.861" viewBox="0 0 30 37.861">
+  <g id="Group_145" data-name="Group 145" transform="translate(0 0.85)">
+    <g id="Group_143" data-name="Group 143" transform="translate(2.63)">
+      <path id="Path_202" data-name="Path 202" d="M2841.976,885.5l12.88-7.173L2867.4,885.5" transform="translate(-2841.976 -878.329)" fill="none" stroke="#fbbc04" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7"/>
+      <line id="Line_10" data-name="Line 10" y2="15.337" transform="translate(3.999 5.455)" fill="none" stroke="#fbbc04" stroke-linecap="round" stroke-width="1.7"/>
+      <line id="Line_11" data-name="Line 11" y2="15.337" transform="translate(21.679 5.455)" fill="none" stroke="#fbbc04" stroke-linecap="round" stroke-width="1.7"/>
+    </g>
+    <text id="Home" transform="translate(0 34.01)" fill="#fbbc04" font-size="11" font-family="GoogleSansDisplay-Regular, Google Sans Display"><tspan x="0" y="0">Home</tspan></text>
+  </g>
+</svg>
