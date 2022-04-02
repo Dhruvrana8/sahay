@@ -68,11 +68,16 @@ class NgoProfileScreen extends StatelessWidget {
           const SizedBox(
             height: 10,
           ),
-          const Text(
-            "Send Feedback!",
-            style: TextStyle(
-              fontSize: 20,
-              color: Color.fromRGBO(251, 188, 4, 1),
+          GestureDetector(
+            onTap: () {
+              Navigator.pushNamed(context, "/feedback/ngo_feedback");
+            },
+            child: const Text(
+              "Send Feedback!",
+              style: TextStyle(
+                fontSize: 20,
+                color: Color.fromRGBO(251, 188, 4, 1),
+              ),
             ),
           ),
         ],
